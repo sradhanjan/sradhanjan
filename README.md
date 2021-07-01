@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sradhanjan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on open source organization
+- 💞️ I’m looking for an internship.
 - 📫 How to reach me sradhanjan2001@gmail.com
 
 <!---
